@@ -2,9 +2,9 @@
 
 :root {
   /* sanity variables */
-  --brand-primary: #000000;
+  --brand-primary: #37210b;
   --brand-primary--inverted: #ffffff;
-  --brand-secondary: #000000;
+  --brand-secondary: #37210b;
   --brand-secondary--inverted: #ffffff;
 
   --main-navigation-color: var(--brand-primary);
